@@ -15,7 +15,7 @@ numAviTechs,3,5,2
 numPilots,10,14,4
 warm_up_period,600,600,1
 sim_duration,7620,7620,1
-numTrials,2,2,1
+numTrials,2,4,1
 offShiftHr,22,22,1
 onShiftHr,7,7,1
 mean_awp,240,240,1
